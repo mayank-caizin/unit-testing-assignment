@@ -1,6 +1,6 @@
 ## Unit Testing Assignment
 
-1. Clone/Fork the repository
+1. Fork the repository
 2. Write good unit tests for the classes in the repository
 3. Share the link of the git repository after completion
 
